@@ -1,0 +1,57 @@
+/*contact css*/
+.contact_title{
+    text-align: center;
+}
+.contact{
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 5px;
+    margin-left: 28px;
+}
+
+.btn_wp{
+    background-color: #f8f9fa;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 16px;
+    box-shadow: 3px -1px 4px #c1c1c1;
+    width: 45%;
+}
+
+.contact_iframe{
+    box-shadow: 2px 1px 2px 2px #c1c1c1;
+    margin-top: 31px;
+    margin-left: 2px;
+}
+
+address{
+    margin-top: 11px;
+    margin-left: 13px;
+    font-size: 14px;
+
+}
+
+.concat_item{
+    display: flex;
+    flex-direction: row;
+}
+
+.concat_item h6{
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.concat_item a{
+    text-decoration: none;
+    margin-top: 11px;
+    margin-left: 13px;
+    font-size: 14px;
+}
+
+.concat_item a:hover{
+    color:black;
+    text-decoration: underline;
+}

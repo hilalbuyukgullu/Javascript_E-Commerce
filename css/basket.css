@@ -1,0 +1,53 @@
+.basket_img{
+    width: 100%;
+    padding-top: 7px;
+    padding-top: 9px;
+}
+
+.baskets{
+    margin-top: 34px;
+}
+
+.baskets h4{
+    text-align: center;
+    padding-bottom: 15px;
+    font-weight: 600;
+}
+
+.baskets h5{
+    text-align: center;
+    padding-bottom: 15px;
+    font-weight: 600;
+}
+
+.baskets p{
+    text-align: center;
+}
+
+.baskets span{
+    text-indent: 50px;
+    text-align: left;
+}
+
+.col-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.basket_info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.basket_delete{
+    border: 1px solid;
+    color: tomato;
+    padding: 5px;
+    background-color: white;
+    border-radius: 5px;
+    font-size: 19px;
+}
+
