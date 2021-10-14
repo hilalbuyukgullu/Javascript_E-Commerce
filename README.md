@@ -1,4 +1,4 @@
-## 📌 Javascript Flower E-Commerce Website  📌
+# 📌 Javascript Flower E-Commerce Website  
 
 <p> The project is a simple e-commerce site created with data from RestAPI using javascript. 90% of the project is dynamically shaped with the data coming from the server. On this website, the user can become a member, log in, and update their information easily. Users who have logged in can easily shop and view their old orders.
 Non-members can browse the websites easily, but if they want to buy a product, they must become a member. The news page is the section where current news is displayed. </p>
@@ -15,7 +15,7 @@ Non-members can browse the websites easily, but if they want to buy a product, t
 :arrow_right: Bootstrap </br>
 <br/>
 
- ## Application Images
+ ## 📸 Application Images
  <p>
 <a href="https://github.com/hilalbuyukgullu/Javascript_E-Commerce/blob/main/ProjectPicture/image1.png" target="_blank">
 <img src="https://github.com/hilalbuyukgullu/Javascript_E-Commerce/blob/main/ProjectPicture/image1.png" width="300" style="max-width:200%;"></a>
