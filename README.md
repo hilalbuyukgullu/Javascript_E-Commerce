@@ -3,8 +3,7 @@
 <p> The project is a simple e-commerce site created with data from RestAPI using javascript. 90% of the project is dynamically shaped with the data coming from the server. On this website, the user can become a member, log in, and update their information easily. Users who have logged in can easily shop and view their old orders.
 Non-members can browse the websites easily, but if they want to buy a product, they must become a member. The news page is the section where current news is displayed. </p>
 <br/>
-<p>Proje javascript kullanılarak RestAPI' den gelen datalar ile oluşturulmuş basit bir e-ticaret sitesidir. Projenin %90'ı dinamik olarak sunucudan gelen datalar ile şekillendirilmiştir. Bu web sitede kullanıcı üye olabilir, üye girişi yapabilir, üye girişi yapan kullanıcılar bilgilerini rahatlıkla güncelleyebilir. Üye girişi yapan kullanıcılar rahatlık ile alışveriş yapabilir, eski siprarişlerini görüntüleyebilir.
-Üye olmayan kullanıcılar ise web sitelerinde kolaylıkla gezinebilir fakat bir ürün satın alınmak isteniyorsa üye olmalıdır. Haberler sayfası ise güncel haberlerin görüntülendiği kısımdır.   </p>
+
 <br/>
 
  ## Languages and Technologies Used in this Project
